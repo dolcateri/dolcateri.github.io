@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://dolcateri.github.io/dolcateri.txt.gz
+Sitemap: https://dolcateri.github.io/app/dolcateri.txt.gz
+Sitemap: https://dolcateri.github.io/assets/dolcateri.txt.gz
+Sitemap: https://dolcateri.github.io/css/dolcateri.txt.gz
+Sitemap: https://dolcateri.github.io/includes/dolcateri.txt.gz
+Sitemap: https://dolcateri.github.io/item/dolcateri.txt.gz
+Sitemap: https://dolcateri.github.io/src/dolcateri.txt.gz
